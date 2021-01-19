@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "RxExpect",
-        "repositoryURL": "git@github.com:AndreyAnt/RxExpect.git",
+        "repositoryURL": "https://github.com/AndreyAnt/RxExpect.git",
         "state": {
           "branch": null,
           "revision": "472fd866cc3c2a9c3bc46f2e484fa9963ba7434c",
